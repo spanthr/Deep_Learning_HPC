@@ -1,4 +1,8 @@
 # Deep_Learning_HPC
+There is a major transformation inside the automotive industry towards Autonomous/ self-driving vehicles. This has caused a transition in the way the cars are developed. To have all the sensors for sensing the environment (Perception problem), path planning (Processing problem), actuating (Response rate problem) the movement though CAN in response with the continuously changing environment (Variability) and communicating(Network strength problem) with other vehicles and infrastructure requires a lot of computation cost at negligible amount of time.
+
+
+
 
 # Tasks
 
