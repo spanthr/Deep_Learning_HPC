@@ -2,10 +2,10 @@
 
 # TASK
 
-1. Palmetto Cluster and Setup
+# TASK 1. Palmetto Cluster and Setup
  
 
-2. Training a Pytorch deep learning model on Palmetto cluster
+# TASK 2. Training a Pytorch deep learning model on Palmetto cluster
 
 GPU usage
 
@@ -16,7 +16,7 @@ Plot the accuracy against the number of training Epochs on a Graph.
 ![](Images/Image/Picture2.png)
 
 
-3. Modify the code for better performance (use two GPUs).
+# TASK 3. Modify the code for better performance (use two GPUs).
 
 torch.cuda.device_count() returned number of GPU available
 
@@ -48,7 +48,7 @@ Plot the accuracy against the number of training Epochs on a Graph.
 
 ![](Images/Image/Picture9.png)
 
-4. model inference for a certain image.
+# TASK 4. model inference for a certain image.
 
 
 ![](Images/Image/Picture10.png)
