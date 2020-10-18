@@ -13,33 +13,53 @@
 3. Modify the code for better performance (use two GPUs).
 
 torch.cuda.device_count() returned number of GPU available
-picture 3,4,5, 6
+
+![](Images/Image/Picture3.png)
+![](Images/Image/Picture4.png)
+![](Images/Image/Picture5.png)
+![](Images/Image/Picture6.png)
+
 
 Increasing Accuracy : Alexnet pretrained was used for better performance with batch size 256, SGD optimizer and 100 epochs.
 
-pic 7 8 9
+
+![](Images/Image/Picture7.png)
+
+![](Images/Image/Picture8.png)
+
+![](Images/Image/Picture9.png)
 
 4. model inference for a certain image.
 
-10,11,12
 
+![](Images/Image/Picture10.png)
+
+![](Images/Image/Picture11.png)
+
+![](Images/Image/Picture12.png)
 # Results
 There are 10 total classes, and the top10_inds variable gives me the indices of the 10 classes along with their values in percentage.
 
 Result: The category 5 that belongs to DOG in Cifar 10 was predicted correctly.
 
 # First Result 
-13 14
 
+
+![](Images/Image/Picture13.png)
+
+![](Images/Image/Picture14.png)
 
 
 # Second Result 
 Result The category 1 that belongs to CARS was predicted by the model with test accuracy = 90.39%.
 
-15 16
-17
+
+![](Images/Image/Picture15.png)
+
+![](Images/Image/Picture16.png)
 
 
+![](Images/Image/Picture17.png)
 # Steps
 1. Jupyter Notebook setup https://janakiev.com/blog/jupyter-virtual-envs/
 
