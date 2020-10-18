@@ -16,9 +16,11 @@
 ![](Images/Image/Picture6.png)
 
 torch.cuda.device_count() returned number of GPU available
-
-![](Images/Image/Picture3.png)
 ![](Images/Image/Picture4.png)
+
+Output:
+![](Images/Image/Picture3.png)
+
 
 
 Increasing Accuracy : Alexnet pretrained was used for better performance with batch size 256, SGD optimizer and 100 epochs.
