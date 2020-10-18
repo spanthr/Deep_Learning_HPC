@@ -8,15 +8,18 @@
 2. Training a Pytorch deep learning model on Palmetto cluster
 
 GPU usage
+
 ![](Images/Image/Picture1.png) 
 
-Plot the accuracy against the number of training Epochs on a Graph. 
+Plot the accuracy against the number of training Epochs on a Graph.
+
 ![](Images/Image/Picture2.png)
 
 
 3. Modify the code for better performance (use two GPUs).
 
 ![](Images/Image/Picture5.png)
+
 Output:
 
 ![](Images/Image/Picture6.png)
@@ -24,7 +27,7 @@ Output:
 torch.cuda.device_count() returned number of GPU available
 ![](Images/Image/Picture4.png)
 
-
+Plot the accuracy against the number of training Epochs on a Graph. 
 
 ![](Images/Image/Picture3.png)
 
@@ -36,6 +39,8 @@ Increasing Accuracy : Alexnet pretrained was used for better performance with ba
 ![](Images/Image/Picture7.png)
 
 ![](Images/Image/Picture8.png)
+
+Plot the accuracy against the number of training Epochs on a Graph. 
 
 ![](Images/Image/Picture9.png)
 
