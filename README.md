@@ -2,7 +2,8 @@
 
 # TASK
 
-# TASK 1. Palmetto Cluster and Setup
+# TASK 1. Cluster and Setup
+------------------------------------------------------
  
 
 # TASK 2. Training a Pytorch deep learning model on Palmetto cluster
