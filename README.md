@@ -12,12 +12,13 @@
 
 3. Modify the code for better performance (use two GPUs).
 
+![](Images/Image/Picture5.png)
+![](Images/Image/Picture6.png)
+
 torch.cuda.device_count() returned number of GPU available
 
 ![](Images/Image/Picture3.png)
 ![](Images/Image/Picture4.png)
-![](Images/Image/Picture5.png)
-![](Images/Image/Picture6.png)
 
 
 Increasing Accuracy : Alexnet pretrained was used for better performance with batch size 256, SGD optimizer and 100 epochs.
@@ -58,8 +59,9 @@ Result The category 1 that belongs to CARS was predicted by the model with test 
 
 ![](Images/Image/Picture16.png)
 
-
+Test Accuracy 
 ![](Images/Image/Picture17.png)
+
 # Steps
 1. Jupyter Notebook setup https://janakiev.com/blog/jupyter-virtual-envs/
 
