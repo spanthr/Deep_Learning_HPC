@@ -60,10 +60,11 @@ Plot the accuracy against the number of training Epochs on a Graph.
 # Results
 There are 10 total classes, and the top10_inds variable gives me the indices of the 10 classes along with their values in percentage.
 
-Result: The category 5 that belongs to DOG in Cifar 10 was predicted correctly.
+
 
 # First Result 
 
+The category 5 that belongs to DOG in Cifar 10 was predicted correctly.
 
 ![](Images/Image/Picture13.png)
 
@@ -79,6 +80,7 @@ Result The category 1 that belongs to CARS was predicted by the model with test 
 ![](Images/Image/Picture16.png)
 
 Test Accuracy 
+
 ![](Images/Image/Picture17.png)
 
 # Steps
