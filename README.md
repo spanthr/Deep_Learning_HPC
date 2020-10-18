@@ -18,18 +18,22 @@ Plot the accuracy against the number of training Epochs on a Graph.
 
 3. Modify the code for better performance (use two GPUs).
 
+torch.cuda.device_count() returned number of GPU available
+
 ![](Images/Image/Picture5.png)
 
 Output:
 
 ![](Images/Image/Picture6.png)
 
-torch.cuda.device_count() returned number of GPU available
-![](Images/Image/Picture4.png)
+
+GPU Usage (Multiple GPU)
+
+![](Images/Image/Picture3.png)
 
 Plot the accuracy against the number of training Epochs on a Graph. 
 
-![](Images/Image/Picture3.png)
+![](Images/Image/Picture4.png)
 
 
 
