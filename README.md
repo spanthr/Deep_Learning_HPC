@@ -1,12 +1,12 @@
 # Deep_Learning_HPC
 
-# TASK
+# Tasks
 
-# TASK 1. Cluster and Setup
+# Task 1. Cluster and Setup
 ------------------------------------------------------
  
 
-# TASK 2. Training a Pytorch deep learning model on Palmetto cluster
+# Task 2. Training a Pytorch deep learning model on Palmetto cluster
 
 GPU usage
 
@@ -17,7 +17,7 @@ Plot the accuracy against the number of training Epochs on a Graph.
 ![](Images/Image/Picture2.png)
 
 
-# TASK 3. Modify the code for better performance (use two GPUs).
+# Task 3. Modify the code for better performance (use two GPUs).
 
 torch.cuda.device_count() returned number of GPU available
 Output:
@@ -50,7 +50,7 @@ Plot the accuracy against the number of training Epochs on a Graph.
 
 ![](Images/Image/Picture9.png)
 
-# TASK 4. model inference for a certain image.
+# Task 4. Model inference for a certain image.
 
 
 ![](Images/Image/Picture10.png)
@@ -58,6 +58,7 @@ Plot the accuracy against the number of training Epochs on a Graph.
 ![](Images/Image/Picture11.png)
 
 ![](Images/Image/Picture12.png)
+
 # Results
 There are 10 total classes, and the top10_inds variable gives me the indices of the 10 classes along with their values in percentage.
 
