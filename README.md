@@ -9,17 +9,21 @@
 
 # Steps
 1. Jupyter Notebook setup https://janakiev.com/blog/jupyter-virtual-envs/
+
 2. Create a Conda virtual environment in the terminal using module add anaconda3/5.1.0
+
 3. environment, once created/modified is saved and can be accessed later through the code:
     conda create -n NAME_OF_ENV python=3.5 # (Create Environment)
     source activate NAME_OF_ENV # (Activate Environment)
     source deactivate NAME_OF_ENV # (Deactivate Environment)
+    
 4. Install necessary packages in the terminal
     CUDA module add cuda-toolkit/10.0.130
     CuDNN module add cuDNN/10.0v7.4.2
     
  5. CUDA 10.1
 conda install pytorch==1.5.1 torchvision==0.6.1 cudatoolkit=10.1 -c pytorch
+
 6. Training deep learning model for Image Classification
    a. Load the training and test datasets from torchvision (reference)
   Training Data can be obtained from various online sources, self-procured or can even be imported from a library like      Pytorch. https://pytorch.org/docs/stable/torchvision/datasets.html
