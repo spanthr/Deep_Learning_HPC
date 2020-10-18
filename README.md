@@ -7,18 +7,25 @@
 
 2. Training a Pytorch deep learning model on Palmetto cluster
 
-![](Images/Image/Picture1.png) ![](Images/Image/Picture2.png)
+GPU usage
+![](Images/Image/Picture1.png) 
+
+Plot the accuracy against the number of training Epochs on a Graph. 
+![](Images/Image/Picture2.png)
 
 
 3. Modify the code for better performance (use two GPUs).
 
 ![](Images/Image/Picture5.png)
+Output:
+
 ![](Images/Image/Picture6.png)
 
 torch.cuda.device_count() returned number of GPU available
 ![](Images/Image/Picture4.png)
 
-Output:
+
+
 ![](Images/Image/Picture3.png)
 
 
