@@ -7,7 +7,7 @@
 
 2. Training a Pytorch deep learning model on Palmetto cluster
 
-![](Result%20images/Image/Picture1.png)
+![](Images/Image/Picture1.png)
 
 
 3. Modify the code for better performance (use two GPUs).
