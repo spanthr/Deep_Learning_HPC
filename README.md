@@ -3,11 +3,11 @@
 # TASK
 
 1. Palmetto Cluster and Setup
-
+ 
 
 2. Training a Pytorch deep learning model on Palmetto cluster
 
-![](Result%20images/image4.png)
+![](Result%20images/Image/Picture1.png)
 
 
 3. Modify the code for better performance (use two GPUs).
