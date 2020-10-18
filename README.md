@@ -20,6 +20,7 @@ Plot the accuracy against the number of training Epochs on a Graph.
 
 torch.cuda.device_count() returned number of GPU available
 Output:
+
 ![](Images/Image/Picture5.png)
 
 
